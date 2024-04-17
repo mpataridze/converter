@@ -1,4 +1,4 @@
-print("mile to km converter")
+print("Mile to KM converter")
 
 km_or_m = input("KM or Mile?")
 
